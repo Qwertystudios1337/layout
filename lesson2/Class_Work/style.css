@@ -1,55 +1,53 @@
 /* общие стили */
-body{
-    margin: 0;
+body {
+  margin: 0;
 }
-ul{
-    margin: 0;
-    padding: 0;
+ul {
+  margin: 0;
+  padding: 0;
 }
-.container{
-    width: 1140px;
-    margin: 0 auto;
+.container {
+  width: 1140px;
+  margin: 0 auto;
 }
 /* стили хэдера */
-header{
-    background-color: aquamarine;
-    height: 60px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+header {
+  background-color: aquamarine;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 /* стили навигации */
 .main-menu {
-    background-color: plum;
+  background-color: plum;
 }
 .main-menu-list {
-    display: flex;
-    justify-content: space-between;
-    height: 50px;
-    align-items: center;
-    list-style: none;
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+  list-style: none;
 }
 /* стили контентной части */
 .content {
-    display: flex;
+  display: flex;
 }
-.main-section{
-    background-color: blanchedalmond;
-    flex: 7;
-    display: flex;
-    flex-wrap: wrap;
+.main-section {
+  background-color: blanchedalmond;
+  flex: 7;
+  display: flex;
+  flex-wrap: wrap;
 }
-.main-section-item{
-background-color: coral;
+.main-section-item {
+  background-color: coral;
 }
 /* стили сайдбара */
-.sidebar-right{
-    background-color: darkturquoise;
-    flex: 2;
+.sidebar-right {
+  background-color: darkturquoise;
+  flex: 2;
 }
 /* стили футера */
-footer{
-    background-color: greenyellow;
+footer {
+  background-color: greenyellow;
 }
-
-

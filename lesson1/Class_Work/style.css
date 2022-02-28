@@ -1,60 +1,59 @@
 body {
-    color: #424242;
-    font-family: Arial, Helvetica, sans-serif;
+  color: #424242;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-    font-size: 40px;
-    color:royalblue;
-    text-align: center;
-    border:5px solid royalblue;
+  font-size: 40px;
+  color: royalblue;
+  text-align: center;
+  border: 5px solid royalblue;
 }
-
 
 img {
-    width: 30%;
-    border-radius: 15px;
-    box-shadow: 5px 5px 35px rgba(104,131,214,0,0.75);
-    transition: 0.1s;
-}
-img:hover{
-transform: scale(1.05,1.05);
-}
-a{
-    text-decoration: none;
-    color: #fff;
-    background: salmon;
-    padding: 10px 20px ;
-    border-radius: 3px;
-}
-a:hover{
-    background-color: violet;
-    color: whitesmoke;
-}
-.rounded{
+  width: 30%;
   border-radius: 15px;
-  padding: 10px;  
+  box-shadow: 5px 5px 35px rgba(104, 131, 214, 0, 0.75);
+  transition: 0.1s;
 }
-.blue{
-    background-color: skyblue;
+img:hover {
+  transform: scale(1.05, 1.05);
 }
-.pink{
-    background-color: pink;
+a {
+  text-decoration: none;
+  color: #fff;
+  background: salmon;
+  padding: 10px 20px;
+  border-radius: 3px;
+}
+a:hover {
+  background-color: violet;
+  color: whitesmoke;
+}
+.rounded {
+  border-radius: 15px;
+  padding: 10px;
+}
+.blue {
+  background-color: skyblue;
+}
+.pink {
+  background-color: pink;
 }
 
 .block {
-    width: 30%;
-    border-radius: 35px;
-    padding: 20px;
+  width: 30%;
+  border-radius: 35px;
+  padding: 20px;
 }
 .green {
-    background-color: greenyellow;
+  background-color: greenyellow;
 }
 .orange {
-    background-color: orange;
+  background-color: orange;
 }
 .violet {
-    background-color: violet;
+  background-color: violet;
 }
-.block img{
-    width: 70%;
+.block img {
+  width: 70%;
 }
